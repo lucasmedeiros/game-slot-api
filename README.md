@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NOW READONLY, THE CODE OF GAME-SLOT-API IS NOW IN THE [GAME-SLOT MONOREPO](https://github.com/lucasmedeiros/game-slot/tree/master/game-slot/backend)
+
 # Game Slot API
 
 Game Slot official API!
